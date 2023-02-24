@@ -4,6 +4,6 @@
 
 Processing 4.2 addes the new `pde://` protocol, which allows you to open `.pde` files directly in the editor.
 
-- https://dipamsen.github.io/pdez-test/sketch_230224a.pde
+- https://dipamsen.github.io/pdez-test/sketch_230224a.pdez
 
-- pde://dipamsen.github.io/pdez-test/sketch_230224a.pde
+- pde://dipamsen.github.io/pdez-test/sketch_230224a.pdez
